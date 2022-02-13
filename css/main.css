@@ -184,14 +184,12 @@ body {
 .quiz-foot {
   background-color: var(--other-secondary);
   padding: 1rem;
-  margin-top: 2rem;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  margin-top: 4rem;
   font-weight: bold;
   font-size: x-large;
-  color: var(--primary);
+  text-align: center;
 }
+
 
 .social-media-links {
   display: inline-flex;
@@ -199,6 +197,6 @@ body {
 
 .list-item-inline {
   list-style-type: none;
-  margin: 0rem 1rem;
+  margin: 0rem 0.5rem;
   text-align: center;
 }
