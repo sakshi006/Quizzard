@@ -5,3 +5,16 @@
 .category-name {
   border-bottom: 1px solid var(--primary);
 }
+
+.product-detail .footer{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.warn{
+    box-shadow: none;
+}
+
+.warn:hover{
+    box-shadow: 2px 2px 10px 1px var(--primary);
+}
