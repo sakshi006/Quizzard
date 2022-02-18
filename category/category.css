@@ -1,0 +1,7 @@
+.bottom-section {
+  margin: 1rem auto 8rem auto;
+}
+
+.category-name {
+  border-bottom: 1px solid var(--primary);
+}

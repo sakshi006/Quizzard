@@ -42,7 +42,8 @@ body {
 }
 
 .type-one--navbar a,
-.social-media-links a {
+.social-media-links a,
+.cardcom a {
   text-decoration: none;
   color: var(--other);
 }
@@ -188,6 +189,8 @@ body {
   font-weight: bold;
   font-size: x-large;
   text-align: center;
+  position: relative;
+  bottom: 0;
 }
 
 
