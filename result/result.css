@@ -17,13 +17,6 @@
     padding: 1rem;
 }
 
-@media screen and (max-width:890px)
-{
-    .result{
-        max-width: 80%;
-    }
-}
-
 .question{
     margin-top: 2rem;
     border-bottom: 1px solid var(--other);
@@ -49,4 +42,13 @@
   display: flex;
   justify-content: center;
   text-decoration: none;
+}
+
+
+
+@media screen and (max-width:890px)
+{
+    .result{
+        max-width: 80%;
+    }
 }
